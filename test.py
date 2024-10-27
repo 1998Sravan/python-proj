@@ -1,3 +1,2 @@
-print ("Hello man")
+print ("Hello Goa")
 
-print ("Hey Hi")
